@@ -1,0 +1,23 @@
+.input {
+    display: flex;
+    align-items: center;
+    background-color:white;
+    margin-bottom: 1rem;
+   
+   
+    
+  }
+  
+
+  
+  .input input {
+    width: 3rem;
+    border-radius: 5px;
+    border: 1px solid white;
+    
+    background-color:white;
+    color:white;
+  
+    margin-left: 90px;
+  
+  }

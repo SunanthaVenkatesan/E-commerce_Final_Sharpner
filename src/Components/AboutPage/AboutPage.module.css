@@ -1,0 +1,49 @@
+.about {
+  margin-top: 5rem;
+  font-family: "Metal-Mania";
+  margin-left:40rem;
+  color: #777;
+
+}
+.img {
+  float: left;
+  margin:10px 90px; 
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+.p {
+  font-size: 22px;
+  margin:4rem;
+  color: #777;
+  text-align: justify;
+  margin-top: 30px;
+  font-family: "Metal-Mania";
+ 
+  
+
+}
+.page {
+  max-width: 1000;
+  margin:0 auto;
+
+  font-size: 19px;
+  
+}
+.button {
+  margin: 2rem;
+  position: absolute;
+  margin-left: 50rem;
+  padding: 10px 10px;
+  font-size: 17px;
+  font-family: "Metal-Mania";
+  border-radius: 25px;
+  border: 1px solid teal;
+  color:#777;
+  font-weight: bold;
+  background-color: white;
+}
+.button:hover{
+  background-color: #777;
+  color:white;
+}

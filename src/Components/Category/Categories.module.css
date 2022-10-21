@@ -1,0 +1,40 @@
+.container {
+  display: block;
+ 
+  padding-top: 5px;
+  padding-right: 60px;
+
+  justify-content: space-evenly;
+  margin-top: 10px;
+  font-family: "Metal Mania";
+
+
+}
+
+.cartButton {
+  display: flex;
+  padding: 15px;
+  background-color:rgb(104, 154, 154);
+  border: none;
+  border-radius: 7px;
+  margin: auto;
+  cursor: pointer;
+  font-family: "Metal Mania";
+  margin-bottom: 2rem;
+  
+
+}
+.cartButton:hover{
+  background-color: rgb(64, 112, 112);;
+}
+.cartBottom {
+  text-decoration: none;
+  color: white;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: "Metal Mania";
+ 
+}
+.back{
+  background-color:white;
+}

@@ -1,0 +1,42 @@
+.albumbtn {
+  margin: 15rem;
+  position: absolute;
+  margin-left: 40rem;
+  padding: 10px 10px;
+  font-size: 14px;
+  font-family: "Metal-Mania";
+  border-radius: 25px;
+  border: 1px solid teal;
+  color:#777;
+  font-weight: bold;
+  background-color: white;
+}
+.albumbtn:hover{
+  color:white;
+}
+
+.playbtn {
+  
+ 
+  border: 2px solid white;
+  border-radius: 60%;
+  padding: 13px;
+  font-size: 17px;
+  font-weight: 300;
+  background: inherit;
+  color:white;
+  margin: 14.7rem;
+  position: absolute;
+  margin-left: 36rem;
+}
+.play :hover{
+  color:white;
+}
+.foot{
+  
+    margin-top: 45rem;
+    position:absolute;
+   
+    
+    
+}

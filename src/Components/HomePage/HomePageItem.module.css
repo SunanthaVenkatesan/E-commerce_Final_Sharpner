@@ -1,0 +1,58 @@
+.container{
+    max-width:1000px;
+    margin:2rem;
+    padding:30px 90px;
+    position: absolute;
+    
+  
+}
+.h2{
+    font-family:'Metal-Mania';
+    margin-left: 15rem;
+    margin-bottom: 2rem;
+    color: #777;
+
+}
+.tourItem{
+    display:flex;
+    border-bottom:1px solid black;
+    margin-left:0rem;
+    font-family: 'Metal-Mania';
+    padding: 10px;
+    width:130%
+   
+}
+.tourDate{
+    width:20%;
+    font-family: 'Metal-Mania';
+    color:#777;
+    font-weight: bold;
+}
+.tourPlace{
+    width:35%;
+    color:#777;
+    font-family: 'Metal-Mania';
+
+}
+.tourSpecPlace{
+    width:55%;
+    padding-right: 1rem;
+    color:#777;
+    font-family: 'Metal-Mania';
+}
+.buyBtn{
+    width:30%;
+    background:rgb(104, 154, 154);
+    color:white;
+    border:none;
+
+    border-radius:5px;
+    font-weight:700;
+    font-family: 'Metal-Mania';
+    padding:8px;
+    
+}
+.main{
+    height: 47rem;
+}
+

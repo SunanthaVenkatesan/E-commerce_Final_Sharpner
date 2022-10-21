@@ -1,0 +1,28 @@
+.movie {
+  margin: 1rem;
+  padding: 1rem;
+  background-color:  rgb(104, 154, 154);
+  box-shadow: 0 2px 8px  rgb(104, 154, 154);
+  border-radius: 12px;
+  text-align: center;
+  color: white;
+}
+
+.movie h2 {
+  font-size: 2rem;
+  color:rgb(238, 228, 228);
+}
+
+.movie h3 {
+  color:rgb(238, 228, 228);
+  margin: 0;
+  font-size: 1rem;
+}
+.delete{
+  background-color: white;
+  color:#777;
+  padding:5px;
+}
+.delete:hover{
+  color:white;
+}

@@ -1,0 +1,60 @@
+.button {
+  cursor: pointer;
+  font: inherit;
+  border: none;
+  background: rgb(85, 83, 83);
+  color:white;
+  padding: 0.50rem ;
+  display: flex;
+  justify-content:right;
+  align-items: center;
+  border-radius: 7px;
+  font-weight: bold;
+
+  margin-left:80rem;
+  margin-top: 10px;
+  position:relative;
+ 
+
+}
+.button:hover,
+.button:active {
+  background-color:rgb(57, 53, 53);
+}
+.icon {
+  width: 1.35rem;
+  height: 1.35rem;
+  margin-right: 0.5rem;
+}
+.number {
+  background-color:darkgray;
+  padding: 0.15rem;
+  border-radius: 25px;
+  margin-left: 1rem;
+    
+}
+
+.bump {
+  animation: bump 300ms ease-out;
+}
+
+@keyframes bump {
+  0% {
+    transform: scale(1);
+  }
+  10% {
+    transform: scale(0.9);
+  }
+  30% {
+    transform: scale(1.1);
+  }
+  50% {
+    transform: scale(1.15);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.cart{
+  font-family: 'Metal-Mania';
+}

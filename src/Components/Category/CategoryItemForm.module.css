@@ -1,0 +1,25 @@
+.form {
+    text-align: right;
+  }
+  
+
+  .button {
+    cursor:pointer;
+    padding:10px;
+    color:white;
+    border:none;
+    font-size:15px;
+    font-weight: bold;
+    border-radius: 4%;
+    background:rgb(104, 154, 154);;
+    font-family: "Metal Mania";
+    margin-right: 80px;
+    margin-bottom: 140px;
+    border-radius:7px ;
+    
+  
+}
+.button:hover,
+.button:active {
+  background-color: rgb(64, 112, 112);;
+}

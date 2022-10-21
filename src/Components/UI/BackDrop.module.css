@@ -1,0 +1,18 @@
+.backdrop {
+    position: relative;
+    top: 10px;
+    text-align:center;
+    height:228px;
+    width:100%;
+    background-color:rgb(104, 154, 154);
+    color: whitesmoke;
+    font-family:"Metal Mania";
+    
+}
+.text{
+    padding-top: 50px;
+    font-size: 70px;
+    color:whitesmoke;
+    font-family:"Metal Mania";
+ 
+}

@@ -1,0 +1,61 @@
+.navbar {
+  height: 10px;
+ 
+  text-align: center;
+  justify-content: center;
+  color: white;
+  font-family: "Metal Mania";
+  font-weight: bold;
+}
+.wrapper {
+  padding: 10px 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  
+  color: black;
+  font-family: "Metal Mania";
+
+}
+.left {
+  flex: 2;
+  text-align: right;
+  font-weight: bold;
+  font-family: "Metal Mania";
+  color:black;
+  }
+  
+  .left a.active{
+    color:red
+  }
+
+.center {
+  flex: 2;
+  text-align: center;
+  font-weight: bold;
+  font-family: "Metal Mania";
+  color:black
+}
+.center a.active{
+  color:red
+}
+
+.right {
+  flex: 2;
+  font-weight: bold;
+  text-align: left;
+  font-family: "Metal Mania";
+  color: black;
+}
+.right a.active{
+  color:red
+}
+
+.bgtext {
+  height: 30px;
+  background-color: rgb(104, 154, 154);
+  font-weight: bold;
+  font-size: 20px;
+  font-family: "Metal Mania";
+  
+}
